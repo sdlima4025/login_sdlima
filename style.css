@@ -21,6 +21,7 @@ body {
 }
 .left-login > h1 {
     color: #77FFC0;
+    font-size: 3vw;
 }
 .right-login {
     width: 50vw;
@@ -44,6 +45,9 @@ body {
     color: #00FF88;
     font-weight: 800;
     margin: 0;
+}
+.left-login-image {
+  width: 35vw;  
 }
 .textfield {
     width: 100%;
